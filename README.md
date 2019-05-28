@@ -1,4 +1,4 @@
-# 팀프로젝트 2 웹서버  
+# 웹서버 실습  
 ## 환경구성  
 windows 10  
 python version: 3.7.2  
